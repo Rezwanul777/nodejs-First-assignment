@@ -1,0 +1,28 @@
+ /* header{
+   display: flex;
+   justify-content: space-between;
+   justify-content: center;
+   align-items:center;
+   padding: 10px 10%;
+   height: 70px;
+   background-color:#f9f9f9;
+  
+}
+
+.nav_links{
+   list-style: none;
+}
+
+.nav_links li{
+   display: inline-flex;
+   padding: 0px 20px;
+   font-size: 25px;
+}
+li a{
+   text-decoration: none;
+}
+
+h1{
+   text-align: center;
+   margin-top: 50px;
+}  */
